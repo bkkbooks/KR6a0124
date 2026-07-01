@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6a0124/v1
+canonical_location: https://kanripo.org/bkk/KR6a0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 緣起經
+  identifiers:
+    alt_id:
+    - T02n0124
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0124.xml
+    old_id: T02n0124
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0124_000.yaml, hash: 'sha256:654aa83f73a08295502f36e9ff89e496618be5dd373d0e5c6a984c56b67ad0d6'}
+  - {seq: 1, filename: KR6a0124_001.yaml, hash: 'sha256:44901c1cbd96d0dda4a35ecec46398ce0b1655c23aa9f1ca87e4a251d81a52df'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0124_001.markers.yaml, hash: 'sha256:62cae921c8d2aa475f69faeb28967bdbfe7245db6822c059fd6886d53bc20b9d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0124_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 913
+  label: 緣起經一卷
+  type: juan
+  level: 1
+hash: sha256:22f1d75035c2e3299a6b998fb9a469ee71ddd908768ca0ab36ecd10633941dea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
