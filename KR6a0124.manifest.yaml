@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0124_000.yaml, hash: 'sha256:654aa83f73a08295502f36e9ff89e496618be5dd373d0e5c6a984c56b67ad0d6'}
-  - {seq: 1, filename: KR6a0124_001.yaml, hash: 'sha256:44901c1cbd96d0dda4a35ecec46398ce0b1655c23aa9f1ca87e4a251d81a52df'}
+  - {seq: 1, filename: KR6a0124_001.yaml, hash: 'sha256:806eaa06be00cffb331b9df09e13f0f471b19256ad485935ba7ed558fb424487'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0124_001.markers.yaml, hash: 'sha256:62cae921c8d2aa475f69faeb28967bdbfe7245db6822c059fd6886d53bc20b9d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0124_000.markers.yaml, hash: 'sha256:8c3503940139c904e9182ce5c09deca45a09a8365857fcf4bf0c9bca9bf2ba54'}
+  - {seq: 1, role: markers, filename: assets/KR6a0124_001.markers.yaml, hash: 'sha256:e4ea56aa500499d2b8174955119c910ff8262ec026868072b650c4250c4c20cc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 緣起經一卷
   type: juan
   level: 1
-hash: sha256:22f1d75035c2e3299a6b998fb9a469ee71ddd908768ca0ab36ecd10633941dea
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5d9759c17c8fc9ebce15232082f12590b68426b0c2bed79d62d88d74133a6bdc
