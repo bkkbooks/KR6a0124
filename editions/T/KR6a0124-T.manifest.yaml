@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0124_000-T.yaml, hash: 'sha256:654aa83f73a08295502f36e9ff89e496618be5dd373d0e5c6a984c56b67ad0d6'}
   - {seq: 1, filename: KR6a0124_001-T.yaml, hash: 'sha256:806eaa06be00cffb331b9df09e13f0f471b19256ad485935ba7ed558fb424487'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0124_000-T.markers.yaml, hash: 'sha256:41a2c9e4cd8b7bf39b3fea9b69a2cfa830ad282eaea4ff32b95dd2f024ecd6f8'}
+  - {seq: 0, role: markers, filename: assets/KR6a0124_000-T.markers.yaml, hash: 'sha256:3a1c2aa5ff5a9f80b1bf759ed9dfa144bb3856ea2f48056a4432121113b76a94'}
   - {seq: 1, role: markers, filename: assets/KR6a0124_001-T.markers.yaml, hash: 'sha256:898ca839a907046a073d3c2d121fe2f359125e1ac18ad388ee78a3d182520029'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 緣起經一卷
   type: juan
   level: 1
-hash: sha256:946b2e5225976e91858adb4aab717d7501d7f9b9d23e459e00205ff10ab252eb
+hash: sha256:828f69c6272110d4e34bd57f6065e8a411aa5c526f59cb0a3b2166bb6069dc42
